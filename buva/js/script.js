@@ -112,8 +112,8 @@ var swiper2 = new Swiper('.swiper2', {
     }
   }
 });
-new WOW().init();
-var hero_carousel = document.querySelector(".hero_carousel"); // hero_carousel.addEventListener("change", function() {
+//new WOW().init();
+//var hero_carousel = document.querySelector(".hero_carousel"); // hero_carousel.addEventListener("change", function() {
 //   document.querySelector('.anim_header').classList.remove('animate__fadeInRight');
 //   setTimeout(() => {    
 //     document.querySelector('.anim_header').classList.add('animate__fadeInRight');

@@ -74,7 +74,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
   background-color: #ffffff;
 }
 
@@ -307,7 +307,7 @@ h6 {
   border-radius: 50px 50px;
   text-align: center;
   font-size: 14px;
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
 }
 
 .online_order:hover {
@@ -323,7 +323,7 @@ h6 {
 
 h1 {
   max-width: 350px;
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
   font-size: calc(28px + 16 * (100vw - 320px) / 1600);
   color: #ffffff;
   margin-top: 41.5px;
@@ -682,7 +682,7 @@ h1.animated,
 }
 
 .why_buva h2 {
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
   font-size: 20px;
   -webkit-transform: translate(0px, 120%);
       -ms-transform: translate(0px, 120%);
@@ -759,7 +759,7 @@ h1.animated,
 }
 
 .why_buva .card h3 {
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
   text-align: center;
   font-size: 16px;
   color: #029bd7;
@@ -776,7 +776,7 @@ h1.animated,
 .why_buva .card p {
   text-align: center;
   margin-top: 24px;
-  font-family: "Gotham Rounded Book";
+  font-family: "Gotham Rounded Book", "Arial", sans-serif;
   font-size: 14px;
   color: #062C3B;
   line-height: 30px;
@@ -841,7 +841,7 @@ h1.animated,
 }
 
 .feedbacks h2 {
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
   font-size: 20px;
   -webkit-transform: translate(0px, 120%);
       -ms-transform: translate(0px, 120%);
@@ -975,7 +975,7 @@ h1.animated,
 
 .feedbacks .card p {
   text-align: center;
-  font-family: "Gotham Rounded Book";
+  font-family: "Gotham Rounded Book", "Arial", sans-serif;
   font-size: 14px;
   color: #062C3B;
   line-height: 30px;
@@ -989,7 +989,7 @@ h1.animated,
 
 .feedbacks .card .name {
   color: #029bd7;
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
   font-size: 18px;
 }
 
@@ -1081,7 +1081,7 @@ h1.animated,
 }
 
 .kargo .kargo_text h3 {
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
   font-size: calc(18px + 16 * (100vw - 320px) / 960);
   color: #ffffff;
   max-width: 400px;
@@ -1104,7 +1104,7 @@ h1.animated,
 }
 
 .kargo .kargo_text p {
-  font-family: "Gotham Rounded Medium";
+  font-family: "Gotham Rounded Medium", "Arial", sans-serif;
   font-size: 14px;
   color: #ffffff;
   line-height: 35px;
@@ -1187,7 +1187,7 @@ h1.animated,
 }
 
 .order ._cloud2 {
-  background: url(../img/_cloud.png);
+  background: url(../img/littlecloud.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1283,7 +1283,7 @@ h1.animated,
 }
 
 .order .order_text h3 {
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
   font-size: calc(18px + 16 * (100vw - 320px) / 960);
   color: #ffffff;
   margin-bottom: 35px;
@@ -1306,7 +1306,7 @@ h1.animated,
 }
 
 .order .order_text p {
-  font-family: "Gotham Rounded Medium";
+  font-family: "Gotham Rounded Medium", "Arial", sans-serif;
   font-size: 14px;
   color: #ffffff;
   width: 85%;
@@ -1374,7 +1374,7 @@ h1.animated,
 }
 
 .video_row h2 {
-  font-family: "Gotham Rounded Bold";
+  font-family: "Gotham Rounded Bold", "Arial", sans-serif;
   font-size: 20px;
   -webkit-transform: translate(0px, 120%);
       -ms-transform: translate(0px, 120%);
